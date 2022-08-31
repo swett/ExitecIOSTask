@@ -1,0 +1,6 @@
+framework module Pods_ExitekTask {
+  umbrella header "Pods-ExitekTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
